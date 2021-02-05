@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-
-A Rock Paper Scissors to show a simple understanding of if loops nothing else.
+A Rock Paper Scissors game to show a simple understanding of if loops nothing else.
